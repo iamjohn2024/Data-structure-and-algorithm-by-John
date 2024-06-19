@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符与文件", "字符与文件\字符与文件.vcxproj", "{091F1325-2DE7-4364-8E56-A2562A09A15E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "栈的应用：表达式求值", "..\栈的应用：表达式求值\栈的应用：表达式求值.vcxproj", "{22C211DE-5A4C-4343-BCBA-B5B3C558F9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{091F1325-2DE7-4364-8E56-A2562A09A15E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{091F1325-2DE7-4364-8E56-A2562A09A15E}.Debug|Win32.Build.0 = Debug|Win32
+		{091F1325-2DE7-4364-8E56-A2562A09A15E}.Release|Win32.ActiveCfg = Release|Win32
+		{091F1325-2DE7-4364-8E56-A2562A09A15E}.Release|Win32.Build.0 = Release|Win32
+		{22C211DE-5A4C-4343-BCBA-B5B3C558F9BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22C211DE-5A4C-4343-BCBA-B5B3C558F9BC}.Debug|Win32.Build.0 = Debug|Win32
+		{22C211DE-5A4C-4343-BCBA-B5B3C558F9BC}.Release|Win32.ActiveCfg = Release|Win32
+		{22C211DE-5A4C-4343-BCBA-B5B3C558F9BC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
